@@ -14,6 +14,7 @@ public class Loader extends JavaPlugin {
         getCommand("jlreload").setExecutor(new Commands(this));
         getLogger().info("Levente itt járt (⓿_⓿) (xd)");
         getLogger().info("Asked?");
+        getLogger().info("L");
         // Plugin startup logic
 
     }
