@@ -12,7 +12,7 @@ public class Loader extends JavaPlugin {
         getLogger().info("Szevasz bika! Mizu van? Minden jó? Majd e baszódik bazdmeg");
         getServer().getPluginManager().registerEvents(new JavaJoinEvent(),this);
         getCommand("jlreload").setExecutor(new Commands(this));
-        getLogger().info("Levente itt járt (⓿_⓿)");
+        getLogger().info("Levente itt járt (⓿_⓿) (xd)");
         // Plugin startup logic
 
     }
