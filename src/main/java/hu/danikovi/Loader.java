@@ -15,7 +15,7 @@ public class Loader extends JavaPlugin {
         getLogger().info("Levente itt járt (⓿_⓿) (xd)");
         getLogger().info("Asked?");
         getLogger().info("L");
-        getLogger().info("L Niggers");
+        getLogger().info("L Niggersasd");
         // Plugin startup logic
 
     }
